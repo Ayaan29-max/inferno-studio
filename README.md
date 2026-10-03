@@ -10,10 +10,10 @@ Inferno Studio is a fire-toned, game-inspired interface for an AdaIN neural styl
    pip install -r requirements.txt
 
 3. Start the app:
-   run-- 
-  1-> cd ai-nst-project-main\NST_Code
+      run-- 
+        1-> cd ai-nst-project-main\NST_Code
 
-  2-> python app.py
+        2-> python app.py
 
 4. Open http://localhost:5000.
 
